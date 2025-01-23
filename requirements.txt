@@ -1,0 +1,7 @@
+
+swarm @ git+https://github.com/openai/swarm.git
+python-dotenv
+langchain
+crewai 
+crewai-tools
+gradio
